@@ -1,0 +1,37 @@
+body
+    {
+    background-image: url('pic2.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    }
+h1
+{text-align: center;
+    border-style:solid;
+    border-color: blue;
+    background-color: tomato;
+  }
+p
+  {
+    font-size: 1cm;
+    text-align: center;
+  border-style:solid;
+  border-color: blue;
+  background-color: rgb(141, 206, 166);}
+
+div
+    {text-align: center;}
+
+button
+{
+    color: blueviolet;
+    font-size: 0.7cm;
+    text-align: center;
+  border-style:solid;
+  border-color: rgb(9, 9, 10);
+  background-color: rgb(49, 252, 167);
+}
+
+
+.zoom:hover
+    {transform: scale(0.6);}

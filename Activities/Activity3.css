@@ -1,0 +1,35 @@
+
+body
+    {
+    background-image: url('pic2.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    }
+  
+  h1   
+    {text-align: center;
+      border-style:solid;
+      border-color: blue;
+      background-color: tomato;
+    }
+  
+  h2	
+    {text-align: center;
+      border-style:solid;
+      border-color: tomato;
+      background-color: blue;
+    }
+  
+  p 	
+    {text-align: center;
+    border-style:solid;
+    border-color: tomato;
+    background-color: rgb(118, 118, 216);}
+  
+  div 	
+    {text-align: center;      
+    }
+
+    .zoom:hover
+    {transform: scale(0.8);}
